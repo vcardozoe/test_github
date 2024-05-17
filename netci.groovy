@@ -1,4 +1,4 @@
-// Import the utility functionality.
+// Import the utility functionality. [Comentario]
 import jobs.generation.Utilities;
 
 // Defines a the new of the repo, used elsewhere in the file
