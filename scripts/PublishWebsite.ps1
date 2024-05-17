@@ -4,6 +4,7 @@
  # get the SCM URL to use with MSDeploy.  
  # by default this will be the second in the array.
  $msdeployurl = $website.EnabledHostNames[1]
+ #commment 56
 
  $publishProperties = @{'WebPublishMethod'='MSDeploy';
                  'MSDeployServiceUrl'=$msdeployurl;
