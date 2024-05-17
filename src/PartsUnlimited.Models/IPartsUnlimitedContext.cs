@@ -15,8 +15,11 @@ namespace PartsUnlimited.Models
 
         DbSet<CartItem> CartItems { get; }
         DbSet<Category> Categories { get; }
+
         DbSet<OrderDetail> OrderDetails { get; }
+
         DbSet<Order> Orders { get; }
+        
         DbSet<Product> Products { get; }
         DbSet<ApplicationUser> Users { get; }
         DbSet<Raincheck> RainChecks { get; }
