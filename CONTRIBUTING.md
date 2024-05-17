@@ -6,6 +6,7 @@ One of the easiest ways to contribute is to participate in discussions and discu
 Please start a discussion or log a new issue on the [Home repo issue tracker](https://github.com/Microsoft/PartsUnlimited/issues).
 
 ## Filing issues
+## Comentario
 When filing issues, please consider using this sample [bug filing template](https://github.com/aspnet/Home/wiki/Functional-bug-template) from the ASP.Net team.
 The best way to get your bug fixed is to be as detailed as you can be about the problem.
 Providing steps to reproduce the problem is ideal.
