@@ -58,6 +58,7 @@ namespace PartsUnlimited.Models
             // Get the cart
             var cartItem = _db.CartItems.Single(
                 cart => cart.CartId == ShoppingCartId
+                
                 && cart.CartItemId == id);
 
             int itemCount = 0;
